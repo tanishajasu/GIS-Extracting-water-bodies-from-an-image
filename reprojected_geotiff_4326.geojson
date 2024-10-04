@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.04160545020807,
+                            21.18849967329195
+                        ],
+                        [
+                            79.14161186529404,
+                            21.18849967329195
+                        ],
+                        [
+                            79.14161186529404,
+                            21.135149395061504
+                        ],
+                        [
+                            79.04160545020807,
+                            21.135149395061504
+                        ],
+                        [
+                            79.04160545020807,
+                            21.18849967329195
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Bounding Box of GeoTIFF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.09157484895623,
+                    21.16185834297155
+                ]
+            },
+            "properties": {
+                "name": "Center Coordinate"
+            }
+        }
+    ]
+}
